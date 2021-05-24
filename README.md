@@ -1,2 +1,2 @@
 # Quote-Generator
-This quote generated was reated using HTML,SCSS ,JS & type.fit API
+This quote generated was created using HTML,SCSS ,JS & type.fit API
